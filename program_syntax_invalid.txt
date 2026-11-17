@@ -1,0 +1,4 @@
+INT grade
+grade := 10
+IF grade > 5 THEN
+    OUTPUT "PASSED"

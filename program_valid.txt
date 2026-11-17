@@ -1,0 +1,19 @@
+INT grade
+INT sum
+INT count
+REAL average
+
+grade := 8
+sum := 0
+count := 1
+
+sum := sum + grade
+average := sum / count
+
+OUTPUT average
+
+IF average >= 5 THEN
+    OUTPUT "PASSED"
+ELSE
+    OUTPUT "FAILED"
+END

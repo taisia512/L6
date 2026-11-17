@@ -1,0 +1,19 @@
+INT grade
+grade := 10
+REAL average
+average := 8.5
+OUTPUT grade
+OUTPUT average
+
+INT _invalid
+INT 2grade
+grade := 007
+average := 12.
+OUTPUT "PASSED"
+
+INT final_grade
+INT grade.name
+INT _grade
+
+OUTPUT ""
+OUTPUT "unfinished
